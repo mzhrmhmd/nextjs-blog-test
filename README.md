@@ -1,6 +1,3 @@
-Here's a `README.md` for your GitHub repository, merging the necessary details into one file:
-
-```markdown
 # NextJS Blog Test - A Next.js & GraphQL Blog Application
 
 ## Overview
